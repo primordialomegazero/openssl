@@ -1,0 +1,4 @@
+LIBS=../../libcrypto
+SOURCE=phi_rsa.c phi_ecdsa.c phi_kyber.c phi_hmac.c phi_aes.c \
+       phi_dilithium.c phi_sha3.c
+INCLUDE=../../
